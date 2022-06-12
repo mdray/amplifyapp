@@ -9,7 +9,7 @@ function App() {
         <p>
           Nervous Robot Support Group coming soon. 
         </p>
-/*       <a
+{/*       <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
@@ -17,7 +17,8 @@ function App() {
         >
           Learn React
         </a>
-*/      </header>
+*/}
+      </header>
     </div>
   );
 }
